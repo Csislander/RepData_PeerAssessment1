@@ -1,4 +1,4 @@
-Title
+Reproducible Research Assignment 1
 ========================================================
 
 First, read in the data (assume it is in your working directory)
